@@ -20,12 +20,17 @@ yum install -y python3 python3-devel
 * **Operadores**
 * **Manipulacion de texto**
 
-Please make sure to update tests as appropriate.
-## Usage
+
+## Ejemplo
 
 ```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+print ("hola que tal?")
+x = 5
+y = 2
+print ("x + y = ", x + y)
+print ("x - y = ", x - y)
+print ("x * y = ", x * y)
+print ("x / y = ", x / y)
+print ("x // y = ", x // y)
+print ("x % y = ", x % y)
+print ("x ** y = ", x ** y)
