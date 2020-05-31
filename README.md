@@ -20,6 +20,11 @@ yum install -y python3 python3-devel
 * **Operadores**
 * **Manipulacion de texto**
 
+## Capitulo 2
+
+* **Listas**
+* **Diccionarios**
+* **Tuples**
 
 ## Ejemplo
 
