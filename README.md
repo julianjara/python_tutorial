@@ -28,8 +28,14 @@ yum install -y python3 python3-devel
 
 ## Capitulo 3
 
+* **input**
+* **print**
+* **xx**
+
+## Capitulo 4
+
 * **Condicionales**
-* **xxx**
+* **if and ifinline**
 * **xx**
 
 ## Ejemplo
