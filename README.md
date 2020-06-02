@@ -26,6 +26,12 @@ yum install -y python3 python3-devel
 * **Diccionarios**
 * **Tuples**
 
+## Capitulo 3
+
+* **Condicionales**
+* **xxx**
+* **xx**
+
 ## Ejemplo
 
 ```python
