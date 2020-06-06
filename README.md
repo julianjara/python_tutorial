@@ -37,6 +37,10 @@ yum install -y python3 python3-devel
 * **for**
 * **while**
 
+## Capitulo 5
+
+* **functions**
+
 ## Ejemplo
 
 ```python
