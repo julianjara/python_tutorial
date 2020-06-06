@@ -28,9 +28,7 @@ yum install -y python3 python3-devel
 
 ## Capitulo 3
 
-* **input**
-* **print**
-* **xx**
+* **input and print**
 
 ## Capitulo 4
 
