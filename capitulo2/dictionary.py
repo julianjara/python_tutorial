@@ -17,11 +17,11 @@ print("Modifying Alex' Age to 15")
 userNameAndAge["Alex"] = 15
 print(userNameAndAge["Alex"])
 
-# to add to the dictionary
+print("Add Joe to the dictionary")
 userNameAndAge["Joe"] = 40
 print(userNameAndAge)
 
-# to delete from a dictionary
+print("delete Joe from the dictionary")
 del userNameAndAge["Joe"]
 print(userNameAndAge)
 

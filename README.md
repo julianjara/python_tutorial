@@ -34,7 +34,12 @@ yum install -y python3 python3-devel
 
 * **Condicionales**
 * **if and ifinline**
-* **xx**
+* **for**
+* **while**
+
+## Capitulo 5
+
+* **functions**
 
 ## Random
 
