@@ -43,7 +43,8 @@ yum install -y python3 python3-devel
 
 ## Random
 
-* **calculator.py
+* **calculator.py**
+
 ## Ejemplo
 
 ```python

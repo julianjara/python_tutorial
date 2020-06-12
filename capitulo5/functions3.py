@@ -2,9 +2,10 @@
 
 def multplier(limit):
 	respuesta = 1
-	for x in range(1,limit):
-		print(respuesta)
+	for i in range(1,limit):
+		#print(respuesta)
 		respuesta = respuesta*2
+		print(respuesta)
 	return respuesta
 
 num = int(input("hasta cuanto quieres multiplicar?:"))
