@@ -36,6 +36,9 @@ yum install -y python3 python3-devel
 * **if and ifinline**
 * **xx**
 
+## Random
+
+* **calculator.py
 ## Ejemplo
 
 ```python
