@@ -43,7 +43,7 @@ yum install -y python3 python3-devel
 
 ## Random
 
-* **calculator.py**
+* **Ejemplos varios**
 
 ## Ejemplo
 
