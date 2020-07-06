@@ -41,6 +41,15 @@ yum install -y python3 python3-devel
 
 * **functions**
 
+## Capitulo 6
+
+* **read files
+* **modules
+
+## Capitulo 7
+
+* **pandas
+
 ## Random
 
 * **Ejemplos varios**
